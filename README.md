@@ -4,7 +4,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Poll app with NestJS and MongoDB.
 
 ## Installation
 
